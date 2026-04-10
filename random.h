@@ -1,0 +1,1 @@
+int generateRandom(int min, int max);
